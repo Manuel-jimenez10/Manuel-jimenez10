@@ -13,6 +13,34 @@ Desarrollo aplicaciones completas, enfocándome en la arquitectura backend para 
 
 Mi objetivo es seguir aprendiendo y creciendo en esta industria. Me apasiona enfrentar nuevos desafíos y aplicar conocimientos que impulsen soluciones innovadoras. Siempre en busca de mejorar y aportar valor en cada proyecto.
 
+## Tecnologías
+Gracias a mi formación en el bootcamp de Henry, he adquirido y perfeccionado un conjunto sólido de tecnologías tanto en frontend como en backend. A continuación, te presento mi stack de herramientas:
+
+Frontend:
+HTML5
+CSS3
+Bootstrap
+React.js
+Redux
+
+Backend:
+Node.js
+Express.js
+NestJS
+GraphQL
+Docker
+
+Bases de datos:
+PostgreSQL
+MongoDB
+
+ORM/ODM:
+TypeORM
+Mongoose
+
+Lenguajes:
+TypeScript
+JavaScript
 
 <!--
 **Manuel-jimenez10/Manuel-jimenez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
