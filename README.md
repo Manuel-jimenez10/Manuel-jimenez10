@@ -17,29 +17,29 @@ Mi objetivo es seguir aprendiendo y creciendo en esta industria. Me apasiona enf
 Gracias a mi formación en el bootcamp de Henry, he adquirido y perfeccionado un conjunto sólido de tecnologías tanto en frontend como en backend. A continuación, te presento mi stack de herramientas:
 
 Frontend:
-HTML5
-CSS3
-Bootstrap
-React.js
+HTML5,
+CSS3,
+Bootstrap,
+React.js,
 Redux
 
 Backend:
-Node.js
-Express.js
-NestJS
-GraphQL
+Node.js,
+Express.js,
+NestJS,
+GraphQL,
 Docker
 
 Bases de datos:
-PostgreSQL
+PostgreSQL,
 MongoDB
 
 ORM/ODM:
-TypeORM
+TypeORM,
 Mongoose
 
 Lenguajes:
-TypeScript
+TypeScript,
 JavaScript
 
 <!--
