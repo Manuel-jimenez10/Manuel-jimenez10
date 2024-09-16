@@ -21,14 +21,14 @@ HTML5,
 CSS3,
 Bootstrap,
 React.js,
-Redux
+Redux.
 
 Backend:
 Node.js,
 Express.js,
 NestJS,
 GraphQL,
-Docker
+Docker.
 
 Bases de datos:
 PostgreSQL,
@@ -36,11 +36,11 @@ MongoDB
 
 ORM/ODM:
 TypeORM,
-Mongoose
+Mongoose.
 
 Lenguajes:
 TypeScript,
-JavaScript
+JavaScript.
 
 <!--
 **Manuel-jimenez10/Manuel-jimenez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
