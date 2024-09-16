@@ -42,6 +42,12 @@ Lenguajes:
 TypeScript,
 JavaScript.
 
+## No dudes en contactarme
+Si tienes alguna pregunta o simplemente quieres conectar, no dudes en contactarme:
+
+Email: manuel28042005@gmail.com
+LinkedIn: https://www.linkedin.com/in/manuel-jimenez-a86504217/
+
 <!--
 **Manuel-jimenez10/Manuel-jimenez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
