@@ -1,5 +1,11 @@
 ## Hola, soy Manuel Jimenez.
 tambien conocido como Manuel-jimenez10 en Github.
+
+## ¿Quien soy?
+
+Soy un desarrollador fullstack con una sólida orientación al backend. Me apasiona crear soluciones eficientes, escalables y enfocadas en optimizar el rendimiento de las aplicaciones desde su núcleo.
+
+
 <!--
 **Manuel-jimenez10/Manuel-jimenez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
