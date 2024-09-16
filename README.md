@@ -32,7 +32,7 @@ Docker.
 
 Bases de datos:
 PostgreSQL,
-MongoDB
+MongoDB.
 
 ORM/ODM:
 TypeORM,
