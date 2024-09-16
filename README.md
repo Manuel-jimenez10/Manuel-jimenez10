@@ -9,6 +9,10 @@ Soy un desarrollador fullstack con una sólida orientación al backend. Me apasi
 
 Desarrollo aplicaciones completas, enfocándome en la arquitectura backend para asegurar sistemas robustos y escalables. También integro funcionalidades frontend, creando experiencias de usuario fluidas y eficientes.
 
+## ¿A dónde me dirijo?
+
+Mi objetivo es seguir aprendiendo y creciendo en esta industria. Me apasiona enfrentar nuevos desafíos y aplicar conocimientos que impulsen soluciones innovadoras. Siempre en busca de mejorar y aportar valor en cada proyecto.
+
 
 <!--
 **Manuel-jimenez10/Manuel-jimenez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
