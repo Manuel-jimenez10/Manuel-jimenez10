@@ -21,6 +21,7 @@ HTML5,
 CSS3,
 Bootstrap,
 React.js,
+NextJs,
 Redux.
 
 Backend:
