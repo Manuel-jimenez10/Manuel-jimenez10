@@ -22,6 +22,7 @@ CSS3,
 Bootstrap,
 React.js,
 NextJs,
+TailwindCSS,
 Redux.
 
 Backend:
