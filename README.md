@@ -5,8 +5,8 @@
 ### 📈 Mis stats en GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manuel-jimenez10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manuel-jimenez10&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
@@ -25,6 +25,6 @@
 
 ### 🫂 Conectemos
 <div align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/manueljimenezlopez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:manuel28042005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
