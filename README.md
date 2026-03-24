@@ -1,67 +1,70 @@
-## Hola, soy Manuel Jimenez.
-tambien conocido como Manuel-jimenez10 en Github.
+## Buenas! Soy Manuel Jimenez <img src="<https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif>" width="40" />
 
-## ¿Quien soy?
+⚡ Desarrollador Backend, automatizaciones y int, mi foco está en crecer mi conocimiento y performar a mi mejor nivel, todos los días.
 
-Soy un desarrollador fullstack con una sólida orientación al backend. Me apasiona crear soluciones eficientes, escalables y enfocadas en optimizar el rendimiento de las aplicaciones desde su núcleo.
+### 📈 Mis stats en GitHub
+<br>
 
-## ¿Que hago? 
+<div align="center">
+  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api?username=arielmirra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true>"/> 
+  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arielmirra&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true>"/>
+</div>
 
-Desarrollo aplicaciones completas, enfocándome en la arquitectura backend para asegurar sistemas robustos y escalables. También integro funcionalidades frontend, creando experiencias de usuario fluidas y eficientes.
+<br>
 
-## ¿A dónde me dirijo?
+### 🛠️ Tecnologías y Herramientas que más uso
+<div align="center">
+  <!-- Scala -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg>" alt="Scala" width="40" height="40"/>
+  <!-- Kotlin -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg>" alt="Kotlin" width="40" height="40"/>
+  <!-- Java -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg>" alt="Java" width="40" height="40"/>
+  <!-- Next.js -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg>" alt="Next.js" width="40" height="40"/>
+  <!-- React Native -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg>" alt="React Native" width="40" height="40"/>
+  <!-- Flutter -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg>" alt="Flutter" width="40" height="40"/>
+  <!-- Spring -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg>" alt="Spring" width="40" height="40"/>
+  <!-- GitHub -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg>" alt="GitHub" width="40" height="40"/>
+  <!-- Golang -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg>" alt="Golang" width="40" height="40"/>
+  <!-- Kubernetes -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg>" alt="Kubernetes" width="40" height="40"/>
+  <!-- Docker -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg>" alt="Docker" width="40" height="40"/>
+  <!-- AWS -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg>" alt="AWS" width="40" height="40"/>
+  <!-- VueJS -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg>" alt="VueJS" width="40" height="40"/>
+  <!-- Angular -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg>" alt="Angular" width="40" height="40"/>
+  <!-- JavaScript -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg>" alt="JavaScript" width="40" height="40"/>
+  <!-- TypeScript -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg>" alt="TypeScript" width="40" height="40"/>
+  <!-- HTML5 -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg>" alt="HTML5" width="40" height="40"/>
+  <!-- CSS3 -->
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg>" alt="CSS3" width="40" height="40"/>
+</div>
 
-Mi objetivo es seguir aprendiendo y creciendo en esta industria. Me apasiona enfrentar nuevos desafíos y aplicar conocimientos que impulsen soluciones innovadoras. Siempre en busca de mejorar y aportar valor en cada proyecto.
+ 
+### 🫂 Conectemos en redes sociales
+<div align="center">
+  <a href="<https://www.linkedin.com/in/arielmirra/>" target="_blank"><img src="<https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white>" target="_blank"></a> 
+  <a href = "<mailto:amirra@hotmail.com>"><img src="<https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white>" target="_blank"></a>
+  <a href="<https://www.instagram.com/ariel.mirra/>" target="_blank"><img src="<https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white>" target="_blank"></a>
+ 	<a href="<https://www.twitch.tv/arielmirra>" target="_blank"><img src="<https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white>" target="_blank"></a>
+  <a href="<https://twitter.com/intent/follow?screen_name=arielmirra_>" target="_blank"><img src="<https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white>" target="_blank"></a>
+  <a href="<https://www.youtube.com/channel/UCVi-wczyA7ZW_iIpd7M5-NA?sub_confirmation=1>" target="_blank"><img src="<https://img.shields.io/badge/Youtube-b2071d?style=for-the-badge&logo=youtube&logoColor=white>" target="_blank"></a>
+</div>
 
-## Tecnologías
-Gracias a mi formación en el bootcamp de Henry, he adquirido y perfeccionado un conjunto sólido de tecnologías tanto en frontend como en backend. A continuación, te presento mi stack de herramientas:
+### 🎥 Mi canal de YouTube
+[![Suscriptores en YouTube](<https://img.shields.io/youtube/channel/subscribers/UCVi-wczyA7ZW_iIpd7M5-NA?label=People%20subscribed%20to%20my%20channel&style=social>)](<https://www.youtube.com/channel/UCVi-wczyA7ZW_iIpd7M5-NA?sub_confirmation=1>) 
+[![YouTube Channel Views](<https://img.shields.io/youtube/channel/views/UCVi-wczyA7ZW_iIpd7M5-NA?label=Total%20views%20on%20my%20channel&style=social>)](<https://www.youtube.com/channel/UCVi-wczyA7ZW_iIpd7M5-NA?sub_confirmation=1>)
+<!-- [![Twitter Follow](<https://img.shields.io/twitter/follow/catalinmpit?label=People%20following%20me%20on%20Twitter&style=social>)](<https://twitter.com/intent/follow?screen_name=arielmirra_>)  -->
 
-Frontend:
-HTML5,
-CSS3,
-Bootstrap,
-React.js,
-NextJs,
-TailwindCSS,
-Redux.
-
-Backend:
-Node.js,
-Express.js,
-NestJS,
-GraphQL,
-Docker.
-
-Bases de datos:
-PostgreSQL,
-MongoDB.
-
-ORM/ODM:
-TypeORM,
-Mongoose.
-
-Lenguajes:
-TypeScript,
-JavaScript.
-
-## No dudes en contactarme
-Si tienes alguna pregunta o simplemente quieres conectar, no dudes en contactarme:
-
-Email: manuel28042005@gmail.com
-LinkedIn: https://www.linkedin.com/in/manuel-jimenez-a86504217/
-Portafolio: https://portafolio-3cii.onrender.com/
-
-<!--
-**Manuel-jimenez10/Manuel-jimenez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
