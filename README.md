@@ -2,15 +2,6 @@
 
 ⚡ Desarrollador Backend, automatizaciones e IA. Mi foco está en crecer mi conocimiento y rendir a mi mejor nivel cada día.
 
-### 📈 Mis stats en GitHub
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manuel-jimenez10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manuel-jimenez10&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<br>
-
 ### 🛠️ Tecnologías y Herramientas
 
 #### 🖥️ Backend Frameworks & Languages
