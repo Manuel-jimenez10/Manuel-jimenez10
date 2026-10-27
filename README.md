@@ -1,61 +1,40 @@
-## Buenas! Soy Manuel Jimenez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" />
+### AI Engineer who also owns the backend. I take LLM agents from notebook to production and wire them into WhatsApp, CRMs and ad platforms.
 
-⚡ Desarrollador Backend, automatizaciones e IA. Mi foco está en crecer mi conocimiento y rendir a mi mejor nivel cada día.
+> Backend engineer since 2023, now building LLM systems that run in production. At SellEasy I build multi-agent sales and support workflows (LangGraph, CrewAI, RAG) that cut response latency by 32%, and I led the integration work behind its Meta Certified Tech Provider accreditation. Remote from Venezuela (UTC-4), with full overlap with US Eastern and LatAm hours.
 
-### 🛠️ Tecnologías y Herramientas
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
-#### 🖥️ Backend Frameworks & Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</div>
+Also in my production work: CrewAI, Qdrant, NestJS, Celery, Docker and the Meta WhatsApp Cloud API.
 
-#### 🗄️ Bases de Datos
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/MinIO-be172d?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" height="40"/>
-</div>
+## What I've built
 
-#### ☁️ Cloud & AI
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="K8s" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="35"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="35"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" height="35"/>
-</div>
+**[Cobrix](https://cobrix-frontend.vercel.app/)** · `public repo` · [frontend](https://github.com/Manuel-jimenez10/cobrix-frontend) · [backend](https://github.com/Manuel-jimenez10/cobrix-backend)<br>
+WhatsApp debt collection for Mexican SMBs. A rule-based 0-100 score decides who to contact first and a Gemini assistant drafts each reminder; a person on the team sends every message. Model outputs are Zod-validated (amounts never above the balance, dates always in the future) and fall back to rules when the model or the quota fails. Try it as a guest at [/demo](https://cobrix-frontend.vercel.app/demo), no login.<br>
+*TypeScript · React · Hono · Vercel AI SDK · Gemini · Supabase*
 
-#### ⚙️ DevOps & Arquitectura
-<div align="left">
-  <img src="https://img.shields.io/badge/CI/CD-FFB13B?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" height="35"/>
-  <img src="https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white" alt="ZeroMQ" height="35"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" height="35"/>
-  <img src="https://img.shields.io/badge/Microservicios-333333?style=for-the-badge" alt="Microservicios" height="35"/>
-  <img src="https://img.shields.io/badge/REST_APIs-0052FF?style=for-the-badge" alt="REST APIs" height="35"/>
-</div>
+**Evento Maiawa** · `private` · built at SellEasy<br>
+Software for "Lost in Paradise", an in-person event in Cartagena (Nov 2026): NFC passports, WhatsApp missions, voice clues played on a vintage telephone and an NFC-locked treasure chest. I designed the API the NFC readers call on every tap. It returns an action code plus the audio clip, and fails safe with a "deny" so a reader never hangs. Voice clues are pre-generated with ElevenLabs and tuned to mono 32 kbps MP3, which took a 10-second clip from ~213 KB to ~54 KB of base64.<br>
+*TypeScript · Next.js · Supabase · ElevenLabs · WhatsApp Business API · NFC hardware*
 
-#### 🎨 Frontend & Herramientas
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
-</div>
+**Hivara** · `private` · collaboration, Jun to Sep 2026<br>
+WhatsApp conversational platform on a Python engine (FastAPI, Celery, Redis, RabbitMQ) with LLMs and vector RAG. I redesigned a 100-node dealership flow, taking false terminations from 14/18 to 0/18 with 100% clean data capture, and traced worker-level race conditions (>1,200 CAS conflicts) that led to fixes in the core engine. To test it, I built a local harness that runs the real engine and LLM with external systems mocked.<br>
+*Python · LangGraph · Celery · RAG*
 
-### 🫂 Conectemos
-<div align="center">
-  <a href="https://www.linkedin.com/in/manueljimenezlopez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:manuel28042005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+## Experience
+
+- **AI Engineer · SellEasy** (Colombia, remote) · since Dec 2025<br>
+  Ad-ops agents across Meta, TikTok and Google Ads that cut marketing management time by 23%. Semantic search on Qdrant with prompt caching and per-inference cost tracking in Helicone.
+- **Senior Backend Engineer · Netcare IT** (Mexico, remote) · since Jun 2024<br>
+  Meta WhatsApp Cloud API connected to EspoCRM, which cut administrative workload by 21%. REST and WebSocket omnichannel messaging that lifted sales output by 22%.
+- **Backend Developer · Seagloo** (Argentina, remote) · Jul 2023 to Aug 2024<br>
+  AI emergency detection for 911 dispatch that cut alert transmission time by 17%, with LLM pipelines that raised incident classification accuracy by 20%.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manueljimenezlopez-0A66C2)](https://www.linkedin.com/in/manueljimenezlopez/)
+[![Email](https://img.shields.io/badge/Email-manuel28042005%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:manuel28042005@gmail.com)
